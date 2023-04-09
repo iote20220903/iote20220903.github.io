@@ -1,0 +1,58 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 源ノ角ゴシック;
+    font-weight: 550;
+    font-size: 20px;
+}
+
+div,p{
+    font-family: 源ノ角ゴシック;
+    font-weight: normal;
+    font-size: 13px;
+    margin: 40px;
+}
+
+
+.about,.guide{
+    font-size: 15px;
+}
+/*
+.medium-title{
+    font-weight: 570;
+    font-size: 25px;
+}
+
+.item-title{
+    font-weight: bold;
+    font-size: 30px;
+}
+*/
+
+
+/* メニューバー */
+
+.ul_menu_bar {
+    float: left;
+  }
+
+.ul_menu_bar_search {
+    float: right;
+  }
+  
+  
+.nav_search{
+    font-family: 源ノ角ゴシック;
+    font-weight: normal;
+}
+
+li {
+    list-style: none;
+  }
+
+
+
+nav {
+  padding-top: 5px;
+  box-sizing: border-box;
+}
